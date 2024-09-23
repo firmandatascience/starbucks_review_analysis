@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+
+https://huggingface.co/spaces/firmandatascience/SentimentAnalysisofStarbucks
